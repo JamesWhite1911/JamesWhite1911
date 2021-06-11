@@ -12,7 +12,7 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]
 
-[<img align="left" style="margin-right: 1.5rem" alt="Protonmail" width="36px" src="assets\protonmail.svg" />][protonmail]
+[<img align="left" style="margin-right: 1.5rem" alt="Protonmail" width="36px" src="assets\gmail.svg" />][protonmail]
 
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
 
