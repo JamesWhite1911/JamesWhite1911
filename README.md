@@ -47,17 +47,11 @@
 ![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
 ![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
 ![Postman](https://img.shields.io/badge/Postman-2E3440?style=for-the-badge&logo=Postman)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-2E3440?style=for-the-badge&logo=lighthouse)
 ![npm](https://img.shields.io/badge/npm-2E3440?style=for-the-badge&logo=npm)
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
 ![Vercel](https://img.shields.io/badge/Vercel-2E3440?style=for-the-badge&logo=vercel)
 
 ---
-
-<!-- GitHub Stats -->
-<div align="center">
-  <img style="margin: 1rem; verticle-align: top"  alt="James White's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JamesWhite1911&layout=compact&theme=radical" />
-</div>
 
 [website]: https://jameswhite1911.github.io/
 [protonmail]: mailto:jameswhite1911@protonmail.com
