@@ -56,7 +56,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img style="margin: 1rem; verticle-align: top"  alt="James White's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jameswhite1911&layout=compact&theme=radical" />
+  <img style="margin: 1rem; verticle-align: top"  alt="James White's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JamesWhite1911&layout=compact&theme=radical" />
 </div>
 
 [website]: https://jameswhite1911.github.io/
