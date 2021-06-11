@@ -12,9 +12,7 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]
 
-[<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
-
-[<img align="left" style="margin-right: 1.5rem" alt="Twitter" width="36px" src="assets\013-twitter-1.svg" />][twitter]
+[<img align="left" style="margin-right: 1.5rem" alt="Protonmail" width="36px" src="assets\protonmail.svg" />][protonmail]
 
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
 
@@ -62,5 +60,5 @@
 </div>
 
 [website]: https://jameswhite1911.github.io/
-[gmail]: mailto:jameswhite1911@protonmail.com
+[protonmail]: mailto:jameswhite1911@protonmail.com
 [linkedin]: https://www.linkedin.com/in/jameswhite1911
