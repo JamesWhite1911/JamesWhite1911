@@ -51,6 +51,6 @@
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
 ![Vercel](https://img.shields.io/badge/Vercel-2E3440?style=for-the-badge&logo=vercel)
 
-[website]: https://jameswhite1911.github.io/
+[website]: https://jameswhite1911.github.io
 [protonmail]: mailto:jameswhite1911@protonmail.com
 [linkedin]: https://www.linkedin.com/in/jameswhite1911
