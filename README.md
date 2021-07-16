@@ -5,7 +5,7 @@
 ## I'm a Gamer, Fast Learner, and Full Stack Web Developer!!
 
 - 🌱 I’m currently learning computer science in Python
-- 🥅 2020 Goals: Graduate from Lambda School and get a developer job
+- 🥅 2021 Goals: Graduate from Lambda School and get a developer job
 - ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
